@@ -1,0 +1,190 @@
+videoId:ID,uploader,age,category,length,views,rate,ratings,comments
+LKh7zAJ4nwo,TheReceptionist,653,Entertainment,424,13021,4.34,1305
+7D0Mf4Kn4Xk,periurban,583,Music,201,6508,4.19,687
+n1cEq1C8oqQ,Pipistrello,525,Comedy,125,1687,4.01,363
+OHkEzL4Unck,ichannel,638,Comedy,299,8043,4.4,518
+-boOvAGNKUc,mrpitifulband,639,Music,287,7548,4.48,606
+hFFH8DaOHQg,istothehalfabee,592,Music,286,1759,4.45,539
+LzHjIj3fpR8,Xelanderthomas,686,Comedy,168,4545,4.58,273
+SDNkMu8ZT68,w00dy911,630,People & Blogs,186,10181,3.49,494
+PkGUU_ggO3k,theresident,704,Entertainment,262,11235,3.85,247
+RX24KLBhwMI,lemonette,697,People & Blogs,512,24149,4.22,315
+MEvoy_owET8,smpfilms,736,Travel & Places,921,109673,4.25,1181
+w6Pbyg_kcEk,DrRek,388,Music,343,19096,3.78,376
+Qehxjub5lyo,jgrandin1,715,Entertainment,177,944984,4.5,3641
+sRnLdmvQBsI,pdrop,735,Entertainment,188,67265,3.09,302
+xGn0q1zoibw,FrontsidePromotions,706,Music,212,352964,4.29,1674
+zRVts7TFw-Y,Philinthecircle,716,Film & Animation,309,607456,4.79,5711
+_5QUdvUhCZc,lendavis,693,Travel & Places,105,819974,4.2,4007
+D6U6GxnvlE8,Karloze,678,Comedy,98,467849,3.65,2699
+OUi9-jqq_i0,ardentoctopus,650,Music,184,862371,4.58,5640
+bqZauhidT1w,bungloid,592,Film & Animation,28,374550,4.19,3588
+fQShwYqGqsw,lonelygirl15,736,People & Blogs,133,151763,3.01,666
+mWzdp7Cg41w,toshiaki1973,735,Entertainment,582,142699,3.45,148
+-keC9GymLpI,KICKABOLAdotCOM,735,Sports,98,99425,4.36,101
+H-ucblRMjuY,nevrknw,735,People & Blogs,22,299935,2.67,640
+jDRENHHatx4,Silkworm17,736,Film & Animation,1444,105097,4.77,522
+ztIH6tc6Aa4,Pwned1555,735,Sports,421,61128,4.57,228
+l69Vi5IDc0g,Blendtec,736,Entertainment,88,86207,4.82,921
+cn34xQU2M94,dellbhoy67,735,Sports,53,53556,4.45,112
+aGEsRXlMT0s,ysabellabrave,735,News & Politics,233,32406,4.42,674
+gZ_eaBgaDzY,Kontrabandman,736,Comedy,54,76086,4.44,261
+JwAtNILh6uY,18doughtystreet,735,News & Politics,109,77817,3.12,1211
+NSusR7UPOns,VinnySabs,735,Entertainment,57,38510,2.37,90
+VZD40KMRFco,pallposka,736,Film & Animation,614,24934,4.45,11
+YpOnJBL6Ky0,oriolinho,736,Sports,88,24643,4.79,19
+d0nkw8BH6I0,DCcombatechizen,736,Comedy,211,20476,3.07,14
+K4u3KNo2bs8,Brookers,736,News & Politics,207,40268,4.31,587
+JL2oDOgnLyI,HannahPL,736,Entertainment,626,19454,4.83,95
+F9qvkMq7EIE,X2BARREL,735,Sports,398,22309,4.62,56
+l0-FWxqyk4E,Snowingday,735,Comedy,284,18247,3.08,12
+IsyWlcQAy-Q,spaceship,731,Entertainment,83,2486628,4.02,1807
+Gm6XszMrw9Y,mrmintel,731,Film & Animation,115,1227020,3.22,2442
+G57Do6ZlZpI,wwwBUDtv,731,Entertainment,60,1006824,2.34,1986
+5LELNIVyMqo,lonelygirl15,731,People & Blogs,55,635085,2.19,2184
+Jy09vLHkIes,misagi4179,731,Film & Animation,593,544237,4.51,338
+qmjvSM3x86o,wobcom,732,News & Politics,92,535103,3.65,443
+DULYGi6dnvw,MOGArmy,735,Entertainment,46,508150,3.61,516
+OL50ddCSJmo,IslandofMystery,734,Entertainment,117,463706,4.75,1797
+YjeAkUKPp-w,McDonaldsSnackWrap,731,Entertainment,10,367386,2.6,3071
+A0eZ9qkUvJU,lelouchwindow,735,Film & Animation,310,351288,4.17,335
+tUTWKV65OqI,miaarose,734,Music,211,342669,3.78,3665
+reojsU7wF94,animefreak203,731,Film & Animation,590,338877,4.76,1289
+f9_oaKYFM0c,dvpwiiii,732,People & Blogs,107,328022,3.6,321
+IaZ7obzogqc,animefreak203,731,Film & Animation,590,281062,4.83,805
+7jYDfKcmLU4,animefreak203,731,Film & Animation,590,252324,4.83,818
+K5saBDOE6Sc,jleonard711,732,Sports,80,236918,4.68,588
+HRzktHuTjHw,animefreak203,731,Film & Animation,589,232400,4.85,790
+ggnRbqcGAAA,boobtuber46,731,Entertainment,116,226406,3.69,198
+neweNjMUO_s,Tommytime8,732,Entertainment,158,225269,3.59,140
+nl5ouaZJPa4,JiveRecords,732,Music,39,212298,3.27,165
+tScm-eZInBE,nicepaul,720,Entertainment,73,2675254,4.65,9105
+7vL19q8yL54,IkeiUnderground,706,Sports,18,2527713,4.66,5712
+C0f2dHJ6A18,vlogkarate,721,Comedy,124,1510728,4.4,7565
+7wt5FiZQrgM,CocaColaSuperbowl,716,Gadgets & Games,62,1399531,4.31,4580
+3CqbAyPx_uk,visiontellie,717,Comedy,110,1369648,4.18,1367
+kNxgxF-7SfA,crashthesuperbowl07,710,Entertainment,30,1364197,3.88,2969
+6gmP4nk0EOE,mwesch,715,Howto & DIY,271,1353059,4.76,10757
+S2n1_h3Bvt0,BrookeHNet,724,Entertainment,564,1271990,4.25,2418
+OMndH4egfSk,ConfessionsTour06,724,Music,562,1258781,4.59,3123
+PL4Uzun4CKA,tokenblackchic,724,People & Blogs,143,1235410,3.68,2645
+u2pW7PSyZhw,ufc,716,Sports,150,1160798,3.36,1870
+7z_ml03VItA,TheMessengersMovie,710,Entertainment,62,1154079,3.44,2178
+JHkoZ7ngAM0,SnickersSuperBowl,717,Comedy,31,1152820,3.86,2490
+wY0PFhHVC94,emeraldnuts,715,Comedy,30,1093377,3.8,2212
+LHyJH1yGKZY,ScottieTails,707,Pets & Animals,81,1085020,4.44,4407
+bfZ_gXCHaMw,breitbart,711,News & Politics,68,1039066,3.39,1345
+Qz_nZixWX6Q,pinktentacle,707,Pets & Animals,29,1027067,4.59,932
+pdiuDXwgrjQ,DodgeNitro,723,Autos & Vehicles,61,1013697,3.37,1536
+dMH0bHeiRNg,judsonlaipply,415,Comedy,360,42513417,4.68,87520
+0XxI-hvPRRA,smosh,286,Comedy,194,20282464,4.49,80710
+1dmVU08zVpA,NBC,670,Entertainment,165,16087899,4.79,30085
+RB-wUgnyGv0,ChrisInScotland,506,Entertainment,159,15712924,4.78,8222
+QjA5faZF1A8,guitar90,308,Music,320,15256922,4.84,120506
+-_CSo1gOd48,tasha,190,People & Blogs,205,13199833,3.71,38045
+49IDp76kjPw,TexMachina,381,Comedy,59,11970018,4.55,22579
+tYnn51C3X_w,CowSayingMoo,516,Music,231,11823701,4.67,29479
+pv5zWaTEVkI,OkGo,531,Music,184,11672017,4.83,42386
+D2kJZOfq7zk,mrWoot,199,People & Blogs,185,11184051,4.82,42162
+vr3x_RRJdd4,PeaceOnEarth123,584,Entertainment,219,10786529,4.87,39079
+lsO6D1rwrKc,Nikesoccer,247,Entertainment,164,10334975,4.49,11857
+5P6UU6m3cqk,BlackOleg,624,Comedy,100,10107491,4.73,34972
+_BuRwH59oAo,n4vi3gurlz,299,Comedy,63,9566609,4.37,10703
+8bbTtPL1jRs,mYcheMicALroMaNcE,695,Music,267,9579911,4.5,5352
+aRNzWyD7C9o,talaskinboit,0,UNA,308,8825788,3.75,36815
+UMf40daefsI,smosh,277,Music,200,7533070,4.55,31886
+ixsZy2425eY,BloodTempest,283,Entertainment,162,7456875,4.5,8680
+MNxwAU_xAMk,j0sealan,538,Comedy,140,7066676,4.56,14786
+RUCZJVJ_M8o,markleung,337,Entertainment,11,6952767,4.21,13932
+HSEnYYpE_V8,boh3m3,736,News & Politics,571,6677,4.72,522
+FM1KUDE3C3k,renetto,736,News & Politics,1063,9062,4.57,525
+Fpr5d5jdJMs,Zipster08,736,People & Blogs,148,4404,4.94,371
+c6SHsF1n9Qw,freedomworksfilms,736,Music,131,14208,4.78,292
+4itvyMRs9cM,futuunohito,737,Entertainment,467,14430,4.93,329
+M8QSI43OznE,the2amshow,736,Music,120,1590,4.9,213
+ms2nnfJVZJ8,CapnOAwesome,735,Entertainment,178,3149,4.46,270
+9zcFy4O13ik,rickyste,736,Entertainment,148,2050,4.61,238
+3PTDGqabRlQ,thewinektwo,735,Entertainment,255,5178,4.71,208
+-tPxZmFCCu4,Blendtec,736,Entertainment,75,8647,4.59,227
+S90NhU8dQyw,davidchoimusic,736,Comedy,193,7778,4.75,204
+yg2enZsknZM,Zipster08,735,Pets & Animals,77,2429,4.82,178
+QJt0r0bfaZI,sxephil,735,People & Blogs,164,5558,4.53,204
+7bbaRyDLMvA,CBS,735,Entertainment,750,87893,4.89,2941
+S5DYNyRLB-k,thewinekone,732,Comedy,599,86399,4.5,2665
+nmDf6SnTVxg,blamesocietyfilms,731,Comedy,356,101617,4.74,1554
+7sQOnsisJto,smosh,733,Comedy,233,101231,4.35,2960
+c3xWdpVJvbw,De4dlyS4mu12ai,731,Entertainment,2799,124492,4.91,1040
+0lMQcbAgQzU,Eniisa,731,Film & Animation,1003,126221,4.82,875
+qOwXIarEpzI,boldfish1,734,Comedy,84,98486,4.62,1050
+aA20dKc3kK8,boobtuber46,731,Comedy,106,209806,4.88,877
+IyKJRkCTV7w,lovelycherryblossom,731,Film & Animation,2799,123206,4.9,805
+mES2JVq1h2w,metalteapot,731,Entertainment,2709,73271,4.84,827
+LK_BZALz-Pw,Rubix89,731,Music,386,15423,4.89,812
+rxaQleXP_80,animefreak203,731,Film & Animation,438,209790,4.87,765
+ZAPHWKZLelg,LittleKuriboh,733,Entertainment,579,178822,4.39,1104
+O0mdjSUM2OE,LittleKuriboh,706,Comedy,407,304528,4.88,5238
+K1O5_Ii9DSE,LittleKuriboh,707,Comedy,312,198017,4.89,3856
+clcza815sao,freedomworksfilms,718,Music,123,254335,4.91,2677
+zx2ytr2Oyv4,dailybean,716,News & Politics,220,647446,4.74,3882
+tM1WzRzEZ5U,adultswimdotcom,717,Comedy,62,721419,4.75,2574
+TweU77cDrgE,guaress,706,People & Blogs,450,318045,4.58,12403
+jMnNX8roU-A,joeyanddavid,708,Comedy,195,676353,4.51,5610
+qHO8l-Bd1O4,current,728,News & Politics,282,425284,4.66,2722
+CmO3voBR3SE,HappySlip,717,News & Politics,468,158585,4.67,2459
+5q5uoEU8RRk,smosh,718,Comedy,145,376928,4.46,5847
+NqPMI6BnINI,guaress,706,People & Blogs,398,122393,4.45,8108
+te7NwAacJ8w,JamesNintendoNerd,718,Entertainment,647,94912,4.85,1757
+skYIXOFF2pg,Rezikai,724,Film & Animation,1384,257506,4.77,1930
+JahdnOQ9XCA,bannedcommercials,563,Entertainment,69,1613864,4.94,59008
+VcQIwbvGRKU,bannedcommercials,564,Entertainment,39,906999,4.93,46472
+nojWJ6-XmeQ,bannedcommercials,563,Comedy,45,2667887,4.93,62265
+wwLrgxtALWs,markleung,677,Gadgets & Games,2462,584871,4.9,6429
+V6k3YlcYtS0,LittleKuriboh,536,Comedy,355,430998,4.91,4785
+Ddn4MGaS3N4,rpoland,648,Music,198,2417724,4.89,18998
+zjiQKKKexyo,LittleKuriboh,551,Comedy,368,409605,4.91,5199
+ElrldD02if0,picster,643,Film & Animation,318,2337238,4.89,7545
+iMlAAbjpydM,LittleKuriboh,524,Comedy,275,390440,4.93,4196
+O9mEKMz2Pvo,strewth,365,Music,272,632893,4.91,4779
+s-7UX1xSEfU,LittleKuriboh,518,Comedy,273,420341,4.92,4456
+jMnoud0-gLo,LittleKuriboh,604,Comedy,340,448565,4.9,5296
+AbndgwfG22k,erikmongrain,488,Music,180,1069404,4.92,4403
+HTKs5ZT16PM,LittleKuriboh,615,Comedy,349,436533,4.9,5528
+crfrKqFp0Zg,freedomworksfilms,670,Music,129,824902,4.89,6816
+9VKlskwm378,genocida,431,Entertainment,239,387649,4.89,16772
+sMEnn0xJ0l0,genocida,380,Sports,95,223511,4.89,11478
+LWBHoHT9lYw,LittleKuriboh,516,Comedy,283,430255,4.91,4402
+JzqumbhfxRo,lassegg,630,Film & Animation,192,3230774,4.89,27545
+7oIwIfuxFZo,LittleKuriboh,531,Comedy,254,383153,4.93,4021
+O5zrKVPYLB8,Daxflame,735,News & Politics,120,9052,4.34,190
+nV5cEUyWkPs,warren25smash,736,News & Politics,204,6299,3.75,218
+zgpbblz9wHw,xgobobeanx,736,Autos & Vehicles,146,11322,3.97,103
+dwgk-RcnBCg,GayGod,735,People & Blogs,110,11614,4.25,200
+nRQpkH7lNzc,EclecticAsylum,735,Film & Animation,81,1747,4.62,26
+6mKxry-DpDg,HellionExciter,735,People & Blogs,369,4133,3.22,170
+bVGRc5b3iD4,Daxflame,730,News & Politics,213,77065,3.62,1170
+S9uRnjaJk0U,ArtieTSMITW,731,News & Politics,83,11158,4.65,224
+2qHi_alv9Ac,tokenblackchic,733,Comedy,285,178181,3.22,580
+LfAaY1p_2Is,lonelygirl15,734,People & Blogs,145,168389,2.95,1084
+YcS352tCIlw,LouRyder,733,Entertainment,66,2116,4.23,35
+jAcWXcNy_18,Zipster08,733,People & Blogs,195,6860,4.71,297
+jc6DBFX-4RQ,supricky06,733,People & Blogs,130,13393,4.41,296
+mOeKEelEnSo,biblegirl7,730,Comedy,254,7631,4.35,51
+OKpyYdpiT88,renetto,734,News & Politics,454,34275,3.85,671
+4G-D0F4Q9yk,Zebro,716,News & Politics,275,882123,4.33,6538
+HtjGgD9bMsM,DanielGardner,722,Comedy,155,584438,3.86,4181
+3jLRNiK6oWY,ashleytisdale,0,UNA,203,663407,3.71,3128
+hBRjiLPNJAA,SergeLipski,706,Film & Animation,170,927340,3.24,5462
+YjIfaMwIFxU,dk7dr7,728,Comedy,141,453615,2.01,3956
+wTNlWRbRtS0,xgobobeanx,721,Comedy,404,951650,2.65,2914
+kzwa8NBlUeo,lonelygirl15,711,People & Blogs,97,759912,2.33,2337
+HPB9tq7f_1k,clelltickle,728,Comedy,224,541658,3.65,2851
+ihhEp3uTZck,JoshFlowers,715,People & Blogs,185,533936,4.16,2948
+6B26asyGKDo,NK5000,558,Film & Animation,345,5147533,4.58,31792
+sdUUx5FdySs,Madyeti47,497,Film & Animation,189,5840839,4.78,42417
+3gg5LOd_Zus,NewNuma,570,Entertainment,207,4200257,3.73,35964
+CQO3K8BcyGM,TheHill88,548,Comedy,65,3083875,2.22,36460
+bNF_P281Uu4,mattharding2718,490,Travel & Places,222,5231539,4.81,29152
+seGhTWE98DU,vidsquare,619,Music,198,3296342,4.57,13657
+N0TR0Irx4Y0,Brookers,228,Comedy,140,3836122,3.16,12342
+P1OXAQHv09E,smosh,434,Comedy,59,3068566,4.55,15530
+o4x-VW_rCSE,HollyW00d81,581,Entertainment,74,3534116,4.48,9538
